@@ -20,3 +20,4 @@
 - word-processor
 - shell-game
 - mixing-milk
+- the-cow-signal
