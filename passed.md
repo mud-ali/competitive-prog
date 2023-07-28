@@ -18,3 +18,4 @@
 - promotion-counting
 - do-you-know-your-abcs
 - word-processor
+- shell-game
