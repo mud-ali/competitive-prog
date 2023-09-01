@@ -23,6 +23,7 @@
 - the-cow-signal
 - speeding-ticket
 - the-bucket-list
+- blocked-billboard
 
 ### Normal
 - block-game
