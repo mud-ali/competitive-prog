@@ -23,3 +23,12 @@ readme_template = f"""
 
 with open(f"{fs_safe}/README.md",'w') as readme:
     readme.write(readme_template)
+
+ignore_template = f"""
+*
+!*.*
+.gitignore
+"""
+
+with open(f"{fs_safe}/.gitignore",'w') as ignore:
+    ignore.write(ignore_template)
