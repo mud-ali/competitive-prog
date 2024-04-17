@@ -11,7 +11,7 @@ if lang == 'c':
 elif lang == 'java':
     os.system(f"cp ./.templates/Main.java {fs_safe}/Main.java")
 elif lang == "py" or lang == "python":
-    os.system(f"touch {name}/main.py")
+    os.system(f"touch {fs_safe}/main.py")
 
 readme_template = f"""
 # {name}
