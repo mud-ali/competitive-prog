@@ -5,6 +5,9 @@
 - Team
 - Soldier and Bananas
 
+### Hard
+- Truck Tour
+
 # Bronze
 
 ### Very Easy
