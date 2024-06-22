@@ -5,6 +5,9 @@
 - Team
 - Soldier and Bananas
 
+### Easy
+- Distinct Numbers
+
 ### Hard
 - Truck Tour
 
