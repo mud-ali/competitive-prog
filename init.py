@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import os
 
 name = input("name? ").strip()
@@ -13,8 +15,7 @@ elif lang == 'java':
 elif lang == "py" or lang == "python":
     os.system(f"touch {fs_safe}/main.py")
 
-readme_template = f"""
-# {name}
+readme_template = f"""# {name}
 
 ## Problem
 
@@ -24,8 +25,7 @@ readme_template = f"""
 with open(f"{fs_safe}/README.md",'w') as readme:
     readme.write(readme_template)
 
-ignore_template = f"""
-*
+ignore_template = f"""*
 !*.*
 .gitignore
 """
